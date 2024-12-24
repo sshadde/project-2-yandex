@@ -23,3 +23,6 @@
 - **pages/index.css** — основной файл стилей.
 - **fonts/** — шрифты проекта.
 - **images/** — изображения, используемые на сайте.
+
+## Ссылка на проект
+https://sshadde.github.io/project-2-yandex/
